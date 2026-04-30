@@ -1,1 +1,1 @@
-A demo project for event injestion
+A demo project for event injestion for data
